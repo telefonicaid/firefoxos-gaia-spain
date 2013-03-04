@@ -1,0 +1,30 @@
+{
+  "homescreens": [
+    [
+      ["apps", "communications", "dialer"],
+      ["apps", "sms"],
+      ["apps", "browser"],
+      ["apps", "camera"],
+      ["apps", "fm"]
+    ],
+    [
+      ["external-apps", "marketplace"],
+      ["apps", "email"],
+      ["apps", "calendar"],
+      ["apps", "gallery"],
+      ["apps", "costcontrol"],
+      ["external-apps", "m.here.com"],
+      ["apps", "settings"],
+      ["external-apps", "twitter"]
+    ],
+    [
+      ["external-apps", "accuweather"],
+      ["apps", "video"],
+      ["external-apps", "wikipedia"],
+      ["external-apps", "calculator"],
+      ["apps", "clock"],
+      ["apps", "communications", "contacts"],
+      ["apps", "music"]
+    ]
+  ]
+}

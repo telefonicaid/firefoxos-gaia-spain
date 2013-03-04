@@ -1,0 +1,8 @@
+{
+  "origin": "app://calculator",
+  "installOrigin": "https://marketplace.firefox.com",
+  "manifestURL": "https://marketplace.firefox.com/app/9f96ce77-5b2d-42ca-a0d9-10a933dd84c4/manifest.webapp",
+  "type": "web",
+  "etag": "6036ea7c988f1cdfbe673f89d8cf2fd8",
+  "packageEtag": "ebe09b6da80a2bbccc522c970d6ceb1771e9c8ecb5ad415efb6c9597361f1583"
+}

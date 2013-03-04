@@ -1,0 +1,62 @@
+[
+  {
+    "givenName": [
+      "Activar Buzón Movistar"
+    ], 
+    "tel": [
+      {
+        "value": "22500" 
+      }
+    ]
+  },
+  {
+    "givenName": [
+      "At. Cliente (extranjero)"
+    ],
+    "tel": [
+      {
+        "value": "+34699991004"
+      }
+    ]
+  },
+  {
+    "givenName": [
+      "Atención al Cliente"
+    ],
+    "tel": [
+      {
+        "value": "1004"
+      }
+    ]
+  },
+  {
+    "givenName": [
+      "Atención Negocios"
+    ],
+    "tel": [
+      {
+        "value": "900101010"
+      }
+    ]
+  },
+  {
+    "givenName": [
+      "Emergencias"
+    ],
+    "tel": [
+      {
+        "value": "112"
+      }
+    ]
+  },
+  {
+    "givenName": [
+      "Inf. 11822"
+    ],
+    "tel": [
+      {
+        "value": "11822"
+      }
+    ]
+  }
+]
