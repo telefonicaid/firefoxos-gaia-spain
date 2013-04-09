@@ -1,30 +1,35 @@
-{
-  "homescreens": [
-    [
-      ["apps", "communications", "dialer"],
-      ["apps", "sms"],
-      ["apps", "browser"],
-      ["apps", "camera"],
-      ["apps", "fm"]
-    ],
-    [
-      ["external-apps", "marketplace"],
-      ["apps", "email"],
-      ["apps", "calendar"],
-      ["apps", "gallery"],
-      ["apps", "costcontrol"],
-      ["external-apps", "m.here.com"],
-      ["apps", "settings"],
-      ["external-apps", "twitter"]
-    ],
-    [
-      ["external-apps", "accuweather"],
-      ["apps", "video"],
-      ["external-apps", "wikipedia"],
-      ["external-apps", "calculator"],
-      ["apps", "clock"],
-      ["apps", "communications", "contacts"],
-      ["apps", "music"]
-    ]
+{"homescreens": [
+  [
+    ["apps", "communications", "dialer"],
+    ["apps", "sms"],
+    ["apps", "browser"],
+    ["apps", "camera"],
+    ["apps", "fm"]
+  ], [
+    ["external-apps", "marketplace"],
+    ["external-apps", "poppit"],
+    ["external-apps", "gamepack"],
+    ["external-apps", "youtube"],
+    ["apps", "email"],
+    ["apps", "calendar"],
+    ["apps", "gallery"],
+    ["apps", "costcontrol"],
+    ["external-apps", "accuweather"],
+    ["external-apps", "m.here.com"],
+    ["apps", "settings"],
+    ["external-apps", "mimovistar"],
+    ["external-apps", "tuenti"],
+    ["external-apps", "facebook"],
+    ["external-apps", "twitter"]
+  ], [
+    ["external-apps", "notes"],
+    ["external-apps", "soundcloud"],
+    ["apps", "music"],
+    ["apps", "video"],
+    ["external-apps", "wikipedia"],
+    ["external-apps", "calculator"],
+    ["apps", "clock"],
+    ["apps", "communications", "contacts"],
+    ["external-apps", "movistarrecomienda"]
   ]
-}
+]}
