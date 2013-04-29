@@ -6,7 +6,7 @@
     ["apps", "camera"],
     ["apps", "fm"]
   ], [
-    ["external-apps", "marketplace"],
+    ["external-apps", "marketplace.firefox.com"],
     ["external-apps", "poppit"],
     ["external-apps", "gamepack"],
     ["external-apps", "youtube"],
@@ -15,7 +15,7 @@
     ["apps", "gallery"],
     ["apps", "costcontrol"],
     ["external-apps", "accuweather"],
-    ["external-apps", "m.here.com"],
+    ["external-apps", "heremaps"],
     ["apps", "settings"],
     ["external-apps", "mimovistar"],
     ["external-apps", "tuenti"],
@@ -23,13 +23,12 @@
     ["external-apps", "twitter"]
   ], [
     ["external-apps", "notes"],
-    ["external-apps", "soundcloud"],
     ["apps", "music"],
     ["apps", "video"],
     ["external-apps", "wikipedia"],
     ["external-apps", "calculator"],
     ["apps", "clock"],
     ["apps", "communications", "contacts"],
-    ["external-apps", "movistarrecomienda"]
+    ["external-apps", "recomienda"]
   ]
 ]}
