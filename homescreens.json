@@ -9,26 +9,23 @@
     ["external-apps", "marketplace.firefox.com"],
     ["external-apps", "poppit"],
     ["external-apps", "gamepack"],
-    ["external-apps", "youtube"],
-    ["apps", "email"],
-    ["apps", "calendar"],
+    ["external-apps", "accuweather"],
     ["apps", "gallery"],
     ["apps", "costcontrol"],
-    ["external-apps", "accuweather"],
     ["external-apps", "m.here.com"],
     ["apps", "settings"],
-    ["external-apps", "mimovistar"],
+    ["apps", "email"],
+    ["apps", "calendar"],
+    ["apps", "communications", "contacts"],
     ["external-apps", "tuenti"],
     ["external-apps", "facebook"],
-    ["external-apps", "twitter"]
+    ["external-apps", "twitter"],
+    ["external-apps", "mimovistar"]
   ], [
-    ["external-apps", "notes"],
+    ["external-apps", "wikipedia"],
     ["apps", "music"],
     ["apps", "video"],
-    ["external-apps", "wikipedia"],
     ["external-apps", "calculator"],
-    ["apps", "clock"],
-    ["apps", "communications", "contacts"],
-    ["external-apps", "recomienda"]
+    ["apps", "clock"]
   ]
 ]}
