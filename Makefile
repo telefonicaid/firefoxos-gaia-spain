@@ -6,7 +6,7 @@ apps:
 	curl $(PRELOAD_URL) -o $(APP_DIR)/$(PRELOAD_FILE)
 	cd $(APP_DIR); \
 	python $(CURDIR)/$(APP_DIR)/$(PRELOAD_FILE) $$line; \
-	rm $(APP_DIR)/$(PRELOAD_FILE)
+	rm $(PRELOAD_FILE)
 
 clean:
 	rm $(APP_DIR)/$(PRELOAD_FILE)
