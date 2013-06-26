@@ -1,0 +1,3 @@
+[submodule "firefoxos-gaia-secrets"]
+	path = firefoxos-gaia-secrets
+	url = https://github.com/Telefonica/firefoxos-custom-secret.git
