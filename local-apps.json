@@ -1,0 +1,39 @@
+{
+  "apps": {
+    "importer": "https://owd.tid.es/store/packages/8975950a5fbbd80896d0c1ce1aa929b6.webapp",
+    "puzzle": "https://owd.tid.es/store/packages/fe8e4a866c518a42db9d2041568684c1.webapp",
+    "sudoku": "https://owd.tid.es/store/packages/12a0fcd176beac6141e57389c64e6141.webapp"
+  },
+  "operators": [
+    {
+      "id": "movistar",
+      "mcc-mnc": [
+        "214-01",
+        "214-02"
+      ],
+      "apps": [
+        {
+          "id": "importer",
+          "screen": 0,
+          "location": 2
+        }
+      ]
+    },
+    {
+      "id": "o2",
+      "mcc-mnc": [
+        "215-23"
+      ],
+      "apps": [
+        {
+          "id": "puzzle",
+          "screen": 0,
+          "location": 2
+        },
+        {
+          "id": "sudoku"
+        }
+      ]
+    }
+  ]
+}
