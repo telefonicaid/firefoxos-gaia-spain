@@ -31,7 +31,10 @@
           "screen": 0,
           "location": 2
         }
-      ]
+      ],
+      "default_contacts": "resources/contacts-movistar.json",
+      "ringtone": "resources/Movistar_Mid_ABR_128kbps.ogg",
+      "wallpaper": "resources/customize.jpg"
     },
     {
       "id": "o2",
