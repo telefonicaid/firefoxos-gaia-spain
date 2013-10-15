@@ -2,19 +2,19 @@
   "apps": {
     "importer":
       {
-        "manifestURL": "https://owd.tid.es/store/packages/8975950a5fbbd80896d0c1ce1aa929b6.webapp"
+        "manifestURL": "http://owd.tid.es/store/packages/8975950a5fbbd80896d0c1ce1aa929b6.webapp"
       },
     "puzzle":
       {
-        "manifestURL": "https://owd.tid.es/store/packages/fe8e4a866c518a42db9d2041568684c1.webapp"
+        "manifestURL": "http://owd.tid.es/store/packages/fe8e4a866c518a42db9d2041568684c1.webapp"
       },
     "sudoku":
       {
-        "manifestURL": "https://owd.tid.es/store/packages/12a0fcd176beac6141e57389c64e6141.webapp"
+        "manifestURL": "http://owd.tid.es/store/packages/12a0fcd176beac6141e57389c64e6141.webapp"
       },
     "store":
       {
-        "manifestURL": "https://owd.tid.es/store/manifest.webapp",
+        "manifestURL": "http://owd.tid.es/store/manifest.webapp",
         "installOrigin": "https://www.openwebdevice.com"
       }
   },
