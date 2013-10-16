@@ -8,7 +8,7 @@
     ],
     "tel": [
       {
-        "type": "Other",
+        "type": ["Other"],
         "value": "22500" 
       }
     ]
@@ -22,7 +22,7 @@
     ],
     "tel": [
       {
-        "type": "Other",
+        "type": ["Other"],
         "value": "+34699991004"
       }
     ]
@@ -36,7 +36,7 @@
     ],
     "tel": [
       {
-        "type": "Other",
+        "type": ["Other"],
         "value": "1004"
       }
     ]
@@ -50,7 +50,7 @@
     ],
     "tel": [
       {
-        "type": "Other",
+        "type": ["Other"],
         "value": "900101010"
       }
     ]
@@ -64,7 +64,7 @@
     ],
     "tel": [
       {
-        "type": "Other",
+        "type": ["Other"],
         "value": "112"
       }
     ]
@@ -78,7 +78,7 @@
     ],
     "tel": [
       {
-        "type": "Other",
+        "type": ["Other"],
         "value": "11822"
       }
     ]
