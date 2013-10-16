@@ -7,9 +7,7 @@
     ["apps", "fm"]
   ], [
     ["external-apps", "marketplace.firefox.com"],
-    ["external-apps", "poppit"],
     ["external-apps", "gamepack"],
-    ["external-apps", "accuweather"],
     ["apps", "gallery"],
     ["apps", "costcontrol"],
     ["apps", "settings"],
@@ -17,14 +15,10 @@
     ["apps", "calendar"],
     ["apps", "communications", "contacts"],
     ["external-apps", "tuenti"],
-    ["external-apps", "facebook"],
-    ["external-apps", "twitter"],
     ["external-apps", "mimovistar"]
   ], [
-    ["external-apps", "wikipedia"],
     ["apps", "music"],
     ["apps", "video"],
-    ["external-apps", "calculator"],
     ["apps", "clock"]
   ]
 ]}
