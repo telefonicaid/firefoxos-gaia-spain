@@ -1,34 +1,59 @@
 {
   "apps": {
-    "importer":
+    "Twitter":
       {
-        "manifestURL": "https://owd.tid.es/store/packages/8975950a5fbbd80896d0c1ce1aa929b6.webapp"
+        "origin": "https://mobile.twitter.com",
+        "manifestURL": "https://mobile.twitter.com/cache/twitter.webapp",
+        "installOrigin": "https://marketplace.firefox.com"
       },
-    "puzzle":
+    "Facebook":
       {
-        "manifestURL": "https://owd.tid.es/store/packages/fe8e4a866c518a42db9d2041568684c1.webapp"
+        "origin": "http://m.facebook.com",
+        "manifestURL": "http://m.facebook.com/openwebapp/manifest.webapp",
+        "installOrigin": "https://marketplace.firefox.com"
       },
-    "sudoku":
+    "Wikipedia":
       {
-        "manifestURL": "https://owd.tid.es/store/packages/12a0fcd176beac6141e57389c64e6141.webapp"
+        "origin": "https://bits.wikimedia.org",
+        "manifestURL": "https://bits.wikimedia.org/WikipediaMobileFirefoxOS/manifest.webapp",
+        "installOrigin": "https://marketplace.firefox.com"
       },
-    "store":
+    "Accuweather":
       {
-        "manifestURL": "https://owd.tid.es/store/manifest.webapp",
-        "installOrigin": "https://www.openwebdevice.com"
+        "origin": "http://m.accuweather.com",
+        "manifestURL": "http://m.accuweather.com/mozilla.webapp",
+        "installOrigin": "https://marketplace.firefox.com"
+      },
+    "Calculator":
+      {
+        "origin": "app://calculator",
+        "installOrigin": "https://marketplace.firefox.com",
+        "manifestURL": "https://marketplace.firefox.com/app/9f96ce77-5b2d-42ca-a0d9-10a933dd84c4/manifest.webapp"
+      },
+    "Poppit":
+      {
+        "origin": "app://poppit",
+        "installOrigin": "https://marketplace.firefox.com",
+        "manifestURL": "https://marketplace.firefox.com/app/d37cb5ed-525a-408e-a7cf-ec848064e041/manifest.webapp"
       }
   },
   "operators": [
     {
       "id": "movistar",
       "mcc-mnc": [
-        "214-01",
-        "214-02"
+        "214-001",
+        "214-002",
+        "214-007"
       ],
       "apps": [
         {
-          "id": "importer",
+          "id": "Calculator",
           "screen": 0,
+          "location": 2
+        },
+        {
+          "id": "Wikipedia",
+          "screen": 1,
           "location": 2
         }
       ],
@@ -40,16 +65,16 @@
     {
       "id": "o2",
       "mcc-mnc": [
-        "215-23"
+        "215-023"
       ],
       "apps": [
         {
-          "id": "puzzle",
+          "id": "Poppit",
           "screen": 0,
           "location": 2
         },
         {
-          "id": "sudoku"
+          "id": "Twitter"
         }
       ]
     }
